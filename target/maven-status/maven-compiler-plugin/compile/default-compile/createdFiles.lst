@@ -1,0 +1,9 @@
+com\loe\messagingservice\model\PasswordLog.class
+com\loe\messagingservice\model\User.class
+com\loe\messagingservice\service\message\MessageRepo.class
+com\loe\messagingservice\service\user\UserRepo.class
+com\loe\messagingservice\service\user\PasswordRepo.class
+com\loe\messagingservice\MessagingServiceApplication.class
+com\loe\messagingservice\ServletInitializer.class
+com\loe\messagingservice\model\Messages.class
+com\loe\messagingservice\controller\MessageEndpoint.class
